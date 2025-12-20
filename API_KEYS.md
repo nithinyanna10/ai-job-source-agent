@@ -33,12 +33,6 @@
    SERPAPI_KEY=your_actual_serpapi_key_here  # Optional
    ```
 
-4. **Verify setup**:
-   ```bash
-   python job_source_agent.py
-   ```
-
----
 
 ## 📝 API Key Details
 
