@@ -97,5 +97,4 @@ playwright install chromium
 - ✅ Playwright: Free
 - ✅ Total: **$0**
 
-Enjoy your free job discovery pipeline! 🚀
 
