@@ -203,9 +203,3 @@ Feel free to extend this agent with:
 - Database storage
 - Web interface
 
-## 📞 Support
-
-For issues with:
-- **Proxycurl API**: https://nubela.co/proxycurl/docs
-- **Scrapin API**: https://scrapin.io/docs
-
